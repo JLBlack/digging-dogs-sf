@@ -1,2 +1,3 @@
-# digging-dogs-sf
+# diggingdogssf
+
 Digging Dogs SF
